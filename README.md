@@ -1,2 +1,2 @@
 HTML exercise
-Recepies
+/n Recipes
